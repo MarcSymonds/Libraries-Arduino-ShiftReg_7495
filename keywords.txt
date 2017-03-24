@@ -1,0 +1,7 @@
+ShiftReg_7495	KEYWORD1
+
+setBit	KEYWORD2
+send	KEYWORD2
+sendPrime	KEYWORD2
+sendTrigger	KEYWORD2
+clear	KEYWORD2
